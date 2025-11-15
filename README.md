@@ -4,7 +4,8 @@ A Linux shell script that allows verified users to vote and stores their selecti
 Script: User Voting System (Bash Script)
 
 This script allows only valid users (whose names are already listed in a file) to vote for a candidate.
-It checks the user’s name, lets them choose a party, and saves their vote.
+It checks the user’s name, lets them choose a party, and saves their vote.Remember one voter can vote only one time, if he tries to give vote twice the system will detect and will give you a warning.
+
 
 
 ---
@@ -52,6 +53,8 @@ Prevents non-listed people from voting
 Makes voting simple
 
 Stores all votes safely
+
+The system can detect a voter thief who tries to vote twice.
 
 Easy to edit and reuse
 
