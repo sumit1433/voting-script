@@ -1,0 +1,5 @@
+max voted to (choice:b)
+rohan voted to (choice:b)
+raja voted to (choice:b)
+combo voted to (choice:c)
+king voted to (choice:A)
