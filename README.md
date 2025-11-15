@@ -63,10 +63,14 @@ Easy to edit and reuse
 
 File Name	Purpose
 
-voterlist.txt	Stores valid voter names ( you can edit this file according to your needs)
-votebank.txt	Stores the votes
-vote.sh	The script file
-new_voterlist_name  Use for Append the new voter ( "every time you enter a new name in voterlist.txt the name will Append in this file after you run the script" ) 
+ voterlist.txt	=>Stores valid voter names ( you can edit this file according to your needs)
+
+votebank.txt	=>Stores the votes
+
+vote.sh =>The script file
+
+new_voterlist_name 
+=> Use for Append the new voter ( "every time you enter a new name in voterlist.txt the name will Append in this file after you run the script" ) 
 
 
 ---
